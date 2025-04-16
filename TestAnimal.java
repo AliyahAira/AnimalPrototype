@@ -2,7 +2,7 @@ public class TestAnimal {
     public static void main(String[] args) {
         AnimalRegistry registry = new AnimalRegistry();
 
-        Animal dolly = registry.createSheep("Dolly");
+        Animal dolly = registry.createSheep("Imee");
         Animal bessie = registry.createCow();
         Animal spirit = registry.createHorse();
 
